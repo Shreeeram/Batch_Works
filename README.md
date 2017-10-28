@@ -1,2 +1,2 @@
-# Windows Batch
-This folder contains .bat files to automate tasks in windows. 
+# Passcode Generator
+This is batch program to generates automatic passcode for Windows login 
